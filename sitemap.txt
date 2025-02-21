@@ -1,0 +1,2 @@
+https://corecompiler.github.io/core40compiler/index.html
+https://corecompiler.github.io/core40compiler/Core40.pdf
