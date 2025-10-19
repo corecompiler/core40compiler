@@ -1,4 +1,4 @@
-Category "New Compilers", "Modern Compilers"
+Category "New Compilers", "Modern Compilers" , "New Compiler" , "Modern Compiler"
 
 The "core 4.0 'multi technology' compiler 'all purpose'" is a new, open-source compiler framework that allows for the creation of new programming languages and supports multiple output technologies. It is not a traditional compiler for a single, predefined language, but a meta-compiler designed for flexibility and language creation. 
 Key features and concepts of Core 4.0 include:
