@@ -1,1 +1,1 @@
-sitemap: https://corecompiler.github.io/core40compiler/sitemap.xml
+Sitemap: https://corecompiler.github.io/core40compiler/sitemap.xml
